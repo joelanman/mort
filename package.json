@@ -1,0 +1,21 @@
+{
+  "name": "mort",
+  "version": "1.0.0",
+  "description": "death statistics",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "death",
+    "statistics",
+    "visualisation",
+    "data",
+    "causes"
+  ],
+  "author": "Joe Lanman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
+}
